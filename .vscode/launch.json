@@ -1,0 +1,45 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "type": "java",
+      "name": "backEnd",
+      "request": "launch",
+      "mainClass": "backEnd",
+      "projectName": "src_8822478e"
+    },
+    {
+      "type": "java",
+      "name": "DavisPutnam",
+      "request": "launch",
+      "mainClass": "DavisPutnam",
+      "projectName": "src_8822478e"
+    },
+    {
+      "type": "java",
+      "name": "frontEnd",
+      "request": "launch",
+      "mainClass": "frontEnd",
+      "projectName": "src_8822478e"
+    },
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "cppdbg",
+      "request": "launch",
+      "args": [],
+      "stopAtEntry": false,
+      "externalConsole": true,
+      "cwd": "c:/Users/siyub/OneDrive/桌面/Artificial Intelligence/Davis-Putnam/Davis-Putnam/src",
+      "program": "c:/Users/siyub/OneDrive/桌面/Artificial Intelligence/Davis-Putnam/Davis-Putnam/src/build/Debug/outDebug",
+      "MIMode": "gdb",
+      "miDebuggerPath": "gdb",
+      "setupCommands": [
+        {
+          "description": "Enable pretty-printing for gdb",
+          "text": "-enable-pretty-printing",
+          "ignoreFailures": true
+        }
+      ]
+    }
+  ]
+}
